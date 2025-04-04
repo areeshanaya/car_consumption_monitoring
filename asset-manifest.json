@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car_consumption_monitoring/static/css/main.e6c13ad2.css",
+    "main.js": "/car_consumption_monitoring/static/js/main.0350e0c2.js",
+    "index.html": "/car_consumption_monitoring/index.html",
+    "main.e6c13ad2.css.map": "/car_consumption_monitoring/static/css/main.e6c13ad2.css.map",
+    "main.0350e0c2.js.map": "/car_consumption_monitoring/static/js/main.0350e0c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0350e0c2.js"
+  ]
+}
